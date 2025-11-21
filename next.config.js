@@ -23,7 +23,7 @@ const nextConfig = {
       }
     ],
   },
-  output: 'export',
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
